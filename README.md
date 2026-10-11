@@ -43,7 +43,7 @@ javac Rectangle.java
 java Rectangle
 ```
 
-## Mesmos exercícios em outras linguagens
+## Exercícios em outras linguagens
 
 - [C](https://github.com/Arthurdsc1/algoritmo_e_logica_em_C)
 - [Python](https://github.com/Arthurdsc1/Algoritmos_e_logica_em_python)
